@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="themeColor">#11CFC5</color>
+    <color name="colorlightgreen">#abffc0</color>
+    <color name="smokeWhite">#f5f5f5</color>
+
+    <!--normal colors-->
+
+    <color name="notification">#219151</color>
+    <color name="color_black">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_grey">#878787</color>
+
+</resources>

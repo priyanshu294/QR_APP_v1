@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Privacy_Policy">
+    <ScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="7dp"
+            android:layout_marginBottom="4dp"
+            android:textColor="@color/color_black"
+            android:fontFamily="monospace"
+            android:text="@string/policy"
+            tools:layout_editor_absoluteX="226dp"
+            tools:layout_editor_absoluteY="155dp" />
+    </ScrollView>
+</RelativeLayout>
